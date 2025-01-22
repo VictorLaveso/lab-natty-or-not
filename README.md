@@ -12,4 +12,4 @@ Utilizei a "Gamma" para revisar minha pesquisa sobre IAs Generativas, estruturar
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/VictorLaveso/lab-natty-or-not/blob/main/exemplos/O-Impacto-da-Inteligencia-Artificial-na-Vida-das-Pessoas.pdf)
+[LINK PARA O E-BOOK AQUI](https://github.com/VictorLaveso/lab-natty-or-not/blob/main/O-Impacto-da-Inteligencia-Artificial-na-Vida-das-Pessoas.pdf)
